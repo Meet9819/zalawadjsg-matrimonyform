@@ -1,0 +1,14 @@
+[07-Oct-2018 05:06:36 UTC] PHP Warning:  imagecolorsforindex(): Color index 15 out of range in /home/jspc15/public_html/matrimonial/admin/resizer/components/pjImage.component.php on line 406
+[07-Oct-2018 05:06:54 UTC] PHP Warning:  imagecolorsforindex(): Color index 15 out of range in /home/jspc15/public_html/matrimonial/admin/resizer/components/pjImage.component.php on line 406
+[07-Oct-2018 05:18:57 UTC] PHP Notice:  getimagesize(): Read error! in /home/jspc15/public_html/matrimonial/admin/resizer/components/pjImage.component.php on line 134
+[07-Oct-2018 05:18:57 UTC] PHP Notice:  getimagesize(): Read error! in /home/jspc15/public_html/matrimonial/admin/resizer/components/pjImage.component.php on line 134
+[07-Oct-2018 05:18:57 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/jspc15/public_html/matrimonial/admin/resizer/components/pjImage.component.php on line 413
+[07-Oct-2018 05:19:39 UTC] PHP Notice:  getimagesize(): Read error! in /home/jspc15/public_html/matrimonial/admin/resizer/components/pjImage.component.php on line 134
+[07-Oct-2018 05:19:39 UTC] PHP Notice:  getimagesize(): Read error! in /home/jspc15/public_html/matrimonial/admin/resizer/components/pjImage.component.php on line 134
+[07-Oct-2018 05:19:39 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/jspc15/public_html/matrimonial/admin/resizer/components/pjImage.component.php on line 413
+[07-Oct-2018 05:19:43 UTC] PHP Notice:  getimagesize(): Read error! in /home/jspc15/public_html/matrimonial/admin/resizer/components/pjImage.component.php on line 134
+[07-Oct-2018 05:19:43 UTC] PHP Notice:  getimagesize(): Read error! in /home/jspc15/public_html/matrimonial/admin/resizer/components/pjImage.component.php on line 134
+[07-Oct-2018 05:19:43 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/jspc15/public_html/matrimonial/admin/resizer/components/pjImage.component.php on line 413
+[15-Oct-2018 07:11:30 UTC] PHP Notice:  getimagesize(): Read error! in /home/jspc15/public_html/matrimonial/admin/resizer/components/pjImage.component.php on line 134
+[15-Oct-2018 07:11:30 UTC] PHP Notice:  getimagesize(): Read error! in /home/jspc15/public_html/matrimonial/admin/resizer/components/pjImage.component.php on line 134
+[15-Oct-2018 07:11:30 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/jspc15/public_html/matrimonial/admin/resizer/components/pjImage.component.php on line 413
